@@ -6,6 +6,7 @@ public class ExemploGit {
 		// TODO Auto-generated method stub
 		System.out.println("Olá Git");
 		// Alterado do Git ok
+		// Alterado agora do eclipse
 	}
 
 }
